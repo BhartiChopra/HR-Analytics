@@ -12,7 +12,7 @@
 - Despite long average tenure (~20 years) and relatively consistent work-life balance scores (~2.5), attrition is consistently high across Software, Sales, Support, HR, R&D, and Hardware.
 
 ## DATASET USED
-<a href="">HR-Analytics-Excel</a>
+<a href="https://github.com/BhartiChopra/HR-Analytics/blob/main/HR%20Analytics%20Project.xlsx">HR-Analytics-Excel</a>
 
 ## OBJECTIVES OF THE PROJECT
 - Identify department-wise attrition.
